@@ -4,4 +4,4 @@ i) Diagnosing Bias and Variance - ways to fix High bias(underfit) and high varia
 
 ii) [Diagnosis in practice] Regression( sci-kit learn and NN), binary classification(NN) lan1
 
-ii) Trade off in Regression(sci-kit learn), Multiclass classification(NN) exam
+iii) [Diagnosis in practice] Regression(sci-kit learn), Multiclass classification(NN) exam
