@@ -4,6 +4,4 @@ i) Logistic Regression using TensorFlow {Building linear regression is similar t
 
 ii) Softmax Regression or Multi-class Classification (Simple - 4 clusters, Intermediate - MNIST data set)
 
-iii)
-
-iv)
+iii) Diagnosing Bias and Variance to tackle underfit and overfitting and producing the best model.
