@@ -1,5 +1,5 @@
 This folder contains 
 
-i) K-Means Algorithm 
+i) K-Means Algorithm - Clustering Algorithm
 
 ii) 
