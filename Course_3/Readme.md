@@ -1,1 +1,1 @@
-Course 3: Unsupervised Learning, Recommender systems, Reinforcement Learning
+Course 3: Unsupervised Learning, Recommender Systems, Reinforcement Learning
