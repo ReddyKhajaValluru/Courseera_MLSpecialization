@@ -1,1 +1,1 @@
-We will land a lander on moon using reinforcement learning.
+Lunar_Lander.ipynb : We will land a lunar lander on the moon's surface using reinforcement learning.
